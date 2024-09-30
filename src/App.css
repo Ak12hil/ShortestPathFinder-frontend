@@ -1,0 +1,10 @@
+
+.warning {
+  background-color: #fff3cd; 
+  color: #856404;
+  padding: 15px;
+  border: 1px solid #ffeeba;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  text-align: center; 
+}
